@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1706673874 source:c:\omega up\proyecto final cp cpp\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<stdlib.h>
+	<locale.h>
+	<stdio.h>
+
